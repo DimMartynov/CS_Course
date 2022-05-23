@@ -28,8 +28,5 @@ namespace Lab1_2
                 Console.WriteLine("An exception was thrown: {0}", e);
             }
         }
-
-
-
     }    
 }
