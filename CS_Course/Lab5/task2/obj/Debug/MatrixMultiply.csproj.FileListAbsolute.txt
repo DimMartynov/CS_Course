@@ -1,0 +1,6 @@
+C:\Users\Andrey\Desktop\CSharpLabs\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\bin\Debug\MatrixMultiply.exe
+C:\Users\Andrey\Desktop\CSharpLabs\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\bin\Debug\MatrixMultiply.pdb
+C:\Users\Andrey\Desktop\CSharpLabs\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\CSharpLabs\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\CSharpLabs\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.exe
+C:\Users\Andrey\Desktop\CSharpLabs\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.pdb
