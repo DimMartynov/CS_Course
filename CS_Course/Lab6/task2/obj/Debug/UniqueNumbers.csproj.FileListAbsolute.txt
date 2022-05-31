@@ -1,0 +1,6 @@
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task2/bin/Debug/UniqueNumbers.exe
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task2/bin/Debug/UniqueNumbers.pdb
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task2/obj/Debug/UniqueNumbers.csproj.AssemblyReference.cache
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task2/obj/Debug/UniqueNumbers.csproj.CoreCompileInputs.cache
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task2/obj/Debug/UniqueNumbers.exe
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task2/obj/Debug/UniqueNumbers.pdb

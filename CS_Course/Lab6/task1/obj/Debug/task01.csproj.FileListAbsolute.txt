@@ -1,0 +1,6 @@
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task1/bin/Debug/task01.exe
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task1/bin/Debug/task01.pdb
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task1/obj/Debug/task01.csproj.AssemblyReference.cache
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task1/obj/Debug/task01.csproj.CoreCompileInputs.cache
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task1/obj/Debug/task01.exe
+/Users/qqtati/Desktop/CSharpLabs/Lab07/STARTER/task1/obj/Debug/task01.pdb
