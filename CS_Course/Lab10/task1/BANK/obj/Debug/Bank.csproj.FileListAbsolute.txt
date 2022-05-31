@@ -1,0 +1,6 @@
+/Users/qqtati/Desktop/CSharpLabs/Lab11/EXERCISE1/STARTER/BANK/obj/Debug/Bank.csproj.AssemblyReference.cache
+/Users/qqtati/Desktop/CSharpLabs/Lab11/EXERCISE1/STARTER/BANK/obj/Debug/Bank.csproj.CoreCompileInputs.cache
+/Users/qqtati/Desktop/CSharpLabs/Lab11/EXERCISE1/STARTER/BANK/bin/Debug/Bank.exe
+/Users/qqtati/Desktop/CSharpLabs/Lab11/EXERCISE1/STARTER/BANK/bin/Debug/Bank.pdb
+/Users/qqtati/Desktop/CSharpLabs/Lab11/EXERCISE1/STARTER/BANK/obj/Debug/Bank.exe
+/Users/qqtati/Desktop/CSharpLabs/Lab11/EXERCISE1/STARTER/BANK/obj/Debug/Bank.pdb
