@@ -1,0 +1,6 @@
+/Users/qqtati/Desktop/CSharpLabs/Lab09/STARTER/task1/bin/Debug/Constructors.exe
+/Users/qqtati/Desktop/CSharpLabs/Lab09/STARTER/task1/bin/Debug/Constructors.pdb
+/Users/qqtati/Desktop/CSharpLabs/Lab09/STARTER/task1/obj/Debug/Constructors.csproj.AssemblyReference.cache
+/Users/qqtati/Desktop/CSharpLabs/Lab09/STARTER/task1/obj/Debug/Constructors.csproj.CoreCompileInputs.cache
+/Users/qqtati/Desktop/CSharpLabs/Lab09/STARTER/task1/obj/Debug/Constructors.exe
+/Users/qqtati/Desktop/CSharpLabs/Lab09/STARTER/task1/obj/Debug/Constructors.pdb

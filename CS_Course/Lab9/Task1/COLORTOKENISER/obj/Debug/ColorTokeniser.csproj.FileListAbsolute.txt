@@ -1,0 +1,6 @@
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab10/STARTER/COLORTOKENISER/bin/Debug/ColorTokeniser.exe
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab10/STARTER/COLORTOKENISER/bin/Debug/ColorTokeniser.pdb
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab10/STARTER/COLORTOKENISER/obj/Debug/ColorTokeniser.csproj.AssemblyReference.cache
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab10/STARTER/COLORTOKENISER/obj/Debug/ColorTokeniser.csproj.CoreCompileInputs.cache
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab10/STARTER/COLORTOKENISER/obj/Debug/ColorTokeniser.exe
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab10/STARTER/COLORTOKENISER/obj/Debug/ColorTokeniser.pdb
