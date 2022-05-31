@@ -1,0 +1,6 @@
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab08/STARTER/BANK/obj/Debug/Bank.csproj.AssemblyReference.cache
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab08/STARTER/BANK/obj/Debug/Bank.csproj.CoreCompileInputs.cache
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab08/STARTER/BANK/bin/Debug/MoreMethods.exe
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab08/STARTER/BANK/bin/Debug/MoreMethods.pdb
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab08/STARTER/BANK/obj/Debug/MoreMethods.exe
+/Users/andriushaguseff/Desktop/CSharpLabs/Lab08/STARTER/BANK/obj/Debug/MoreMethods.pdb
